@@ -1,5 +1,9 @@
 # valormaior
 
+<p align="center">
+  <img src="valormaior-screenshot.png" height="240" alt="Relectron" />
+</p>
+
 <div align="center">
   
   [![](https://img.shields.io/badge/React-%2309aee4)](https://github.com/facebook/react) 
