@@ -1,8 +1,11 @@
-# valormaior
-
 <p align="center">
-  <img src="valormaior-screenshot.png" height="240" alt="ValorMaior" />
+  <img src="valormaior-screenshot.png" alt="ValorMaior" />
 </p>
+
+<div align="center">
+  <h1>ValorMaior</h1>
+</div>
+
 
 <div align="center">
   
