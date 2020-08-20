@@ -1,7 +1,7 @@
 # valormaior
 
 <p align="center">
-  <img src="valormaior-screenshot.png" height="240" alt="Relectron" />
+  <img src="valormaior-screenshot.png" height="240" alt="ValorMaior" />
 </p>
 
 <div align="center">
