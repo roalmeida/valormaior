@@ -22,4 +22,4 @@ Project created using NextJs to take the advantage of Search Engine Optimization
 
 ## Status
 
-It still under development, but you can check the preview at [Valor Marior](https://valormaior.now.sh/)
+It still under development, but you can check the preview at [Valor Marior](https://valormaior.com/)
