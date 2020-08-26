@@ -17,9 +17,9 @@
 
 ## About
 
-This is a front-end private project created for the company ValorMaior
-Project created using NextJs to take the advantage of Search Engine Optimization, Server Side Rendering and Static Site GenerationG
+This is a private project created for the company ValorMaior
+Project created using NodeJs on back-end and NextJs on front-end to take the advantage of Search Engine Optimization, Server Side Rendering and Static Site Generations
 
 ## Status
 
-It still under development, but you can check the preview at [Valor Marior](https://valormaior.com/)
+This project is online. You can check at [Valor Marior](https://valormaior.com/)
