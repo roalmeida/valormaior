@@ -9,7 +9,8 @@
 
 <div align="center">
   
-  [![](https://img.shields.io/badge/React-%2309aee4)](https://github.com/facebook/react) 
+  [![](https://img.shields.io/badge/Noje-%2309aee4)](https://github.com/nodejs)
+  [![](https://img.shields.io/badge/React-%2309aee4)](https://github.com/facebook/react)
   [![](https://img.shields.io/badge/Next-%2309aee4)](https://github.com/vercel/next.js)
   [![](https://img.shields.io/badge/Typecript-%2309aee4)](https://github.com/microsoft/TypeScript)
   
