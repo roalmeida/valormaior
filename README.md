@@ -22,4 +22,4 @@ Project created using NodeJs on back-end and NextJs on front-end to take the adv
 
 ## Status
 
-This project is online. You can check at [Valor Marior](https://valormaior.com/)
+This project is online. You can check at [valormaior.com](https://valormaior.com/)
